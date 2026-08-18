@@ -26,7 +26,7 @@ A občas aj malý nedokonalý detail, ktorý fotografii dodá charakter.
 
 ### CoreCamera 1.0
 
-**[STIAHNUŤ CORECAMERA 1.0 — APK](release/CoreCamera-1.0.apk)**
+**[STIAHNUŤ CORECAMERA 1.0 — APK](https://github.com/stanochillart/CoreCamera-Releases/raw/refs/heads/main/Releases/CoreCamera-1.0.0-release-signed.apk)**
 
 **Android 8.0+ · fotoaparát · filmový vzhľad**
 
