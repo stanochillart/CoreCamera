@@ -1,0 +1,37 @@
+[English](README.md) · **Slovenčina**
+
+# CoreCamera
+
+### Stlač spúšť. Počkaj. Fotografia sa vyvoláva.
+
+**[Stiahnuť](releases/CoreCamera-1.1.apk)** · Android 8.0+ · bez účtu · bez reklám
+
+---
+
+Telefón fotografiu opraví, kým ju ešte nestihneš vidieť. Doostrí. Vyhladí. Záber je dokonalý. A nikoho.
+
+CoreCamera svet neopravuje. Vyvolá ho.
+
+Spúšť. Krátky zvuk. Najprv biela. Potom izba, tvár, zrno, hrubý biely rám. Ako z Polaroidu, ktorý si schoval do telefónu. Občas cez snímku prejde svetlo, ktoré tam nemalo byť. Ten záber už neurobíš znova.
+
+---
+
+Dva vzhľady. Teplý, starý film. Alebo studený, nočný.
+
+Dva formáty. Štvorec. Alebo klasický Polaroid s hrubým rámom.
+
+Jas si posunieš sám. Prednú aj zadnú kameru, širokú aj priblíženú. Galéria je len tvoja: nič z toho, čo telefón odfotil, keď sa snažil byť dokonalý.
+
+Fotografia ostáva v zariadení, kým ju nepošleš ty.
+
+---
+
+Pre človeka, ktorého už nebaví, že každá snímka z telefónu vyzerá rovnako.
+
+Nie je to ateliér. Nie je to aplikácia, ktorá ti záber vylepší. Ak chceš klinicky ostrú fotografiu, toto nie je ten prístroj.
+
+---
+
+**[Stiahnuť CoreCamera](releases/CoreCamera-1.1.apk)**
+
+StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
