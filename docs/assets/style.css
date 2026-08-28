@@ -20,6 +20,45 @@ a:hover { text-decoration: underline; }
   margin: 0 auto;
   padding: 1.5rem 1.25rem 4rem;
 }
+.wrap.wide { max-width: 68rem; }
+.hero { max-width: 36rem; margin-bottom: 2.6rem; }
+.hero h1 { font-size: 2.45rem; }
+.home {
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  margin: 0 0 1.15rem;
+}
+.home a { color: var(--muted); }
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16.8rem, 1fr));
+  gap: 0.85rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.4rem;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  min-height: 10rem;
+  margin: 0;
+  padding: 1.1rem 1.15rem 1.15rem;
+  border: 1px solid var(--line);
+  background: #14181c;
+}
+.card .name { font-size: 1.12rem; margin: 0 0 0.35rem; }
+.card .line {
+  color: var(--muted);
+  font-size: 0.98rem;
+  flex: 1;
+  margin: 0;
+}
+.card .acts {
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  margin-top: 0.95rem;
+}
+.card .acts a { margin-right: 0.9rem; }
 .langs {
   font-family: system-ui, sans-serif;
   font-size: 0.78rem;
