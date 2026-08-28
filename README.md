@@ -4,7 +4,7 @@
 
 ### Press the shutter. Wait. The photograph develops.
 
-**[Download](releases/CoreCamera-1.1.apk)** · Android 8.0+ · no account · no ads
+**[Download](https://github.com/stanochillart/CoreCamera/releases/download/v1.1/CoreCamera-1.1.apk)** · Android 8.0+ · no account · no ads
 
 ---
 
@@ -32,6 +32,6 @@ This is not a studio. This is not an app that improves your shot. If you want a 
 
 ---
 
-**[Download CoreCamera](releases/CoreCamera-1.1.apk)**
+**[Download CoreCamera](https://github.com/stanochillart/CoreCamera/releases/download/v1.1/CoreCamera-1.1.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
