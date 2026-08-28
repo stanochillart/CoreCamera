@@ -1,0 +1,103 @@
+:root {
+  --bg: #0e1114;
+  --fg: #e8e4dc;
+  --muted: #9a9488;
+  --line: #2a2f33;
+  --accent: #d4c4a0;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font: 18px/1.55 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  min-height: 100vh;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap {
+  max-width: 38rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 4rem;
+}
+.langs {
+  font-family: system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin-bottom: 2.25rem;
+  line-height: 1.8;
+}
+.langs a { color: var(--muted); }
+.langs strong { color: var(--fg); font-weight: 600; }
+.kicker {
+  font-family: system-ui, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.6rem;
+}
+h1 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.4rem;
+}
+.tag {
+  font-size: 1.2rem;
+  color: var(--accent);
+  margin: 0 0 1.1rem;
+}
+.meta {
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  color: var(--muted);
+  margin: 0 0 2rem;
+}
+.dl {
+  display: inline-block;
+  font-family: system-ui, sans-serif;
+  font-size: 0.92rem;
+  letter-spacing: 0.04em;
+  color: var(--bg);
+  background: var(--accent);
+  padding: 0.45rem 0.9rem;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.dl:hover { text-decoration: none; filter: brightness(1.08); }
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.6rem 0;
+}
+p { margin: 0 0 0.95rem; }
+footer {
+  margin-top: 2.5rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.list { list-style: none; padding: 0; margin: 0 0 2rem; }
+.list li {
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--line);
+}
+.list .name { font-size: 1.15rem; }
+.list .line { color: var(--muted); font-size: 0.95rem; margin-top: 0.2rem; }
+.list .acts {
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  margin-top: 0.35rem;
+  color: var(--muted);
+}
+h2 {
+  font-size: 0.78rem;
+  font-family: system-ui, sans-serif;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 2rem 0 0.4rem;
+  font-weight: 600;
+}

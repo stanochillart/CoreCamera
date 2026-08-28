@@ -1,4 +1,4 @@
-[English](README.md) · **Slovenčina**
+[English](https://stanochillart.github.io/CoreCamera/) · **Slovenčina** · [Čeština](https://stanochillart.github.io/CoreCamera/cs/) · [Polski](https://stanochillart.github.io/CoreCamera/pl/) · [Deutsch](https://stanochillart.github.io/CoreCamera/de/) · [Magyar](https://stanochillart.github.io/CoreCamera/hu/) · [Italiano](https://stanochillart.github.io/CoreCamera/it/) · [Español](https://stanochillart.github.io/CoreCamera/es/) · [日本語](https://stanochillart.github.io/CoreCamera/ja/) · [中文](https://stanochillart.github.io/CoreCamera/zh/)
 
 # CoreCamera
 
