@@ -4,7 +4,7 @@
 
 ### Stlač spúšť. Počkaj. Fotografia sa vyvoláva.
 
-**[Stiahnuť](https://github.com/stanochillart/CoreCamera/releases/download/v1.1/CoreCamera-1.1.apk)** · Android 8.0+ · bez účtu · bez reklám
+**[Stiahnuť](https://github.com/stanochillart/CoreCamera/releases/download/v1.3/CoreCamera-1.3.apk)** · Android 8.0+ · bez účtu · bez reklám
 
 ---
 
@@ -32,6 +32,6 @@ Nie je to ateliér. Nie je to aplikácia, ktorá ti záber vylepší. Ak chceš 
 
 ---
 
-**[Stiahnuť CoreCamera](https://github.com/stanochillart/CoreCamera/releases/download/v1.1/CoreCamera-1.1.apk)**
+**[Stiahnuť CoreCamera](https://github.com/stanochillart/CoreCamera/releases/download/v1.3/CoreCamera-1.3.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
